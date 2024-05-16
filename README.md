@@ -13,3 +13,7 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 ## About this project
 
 This project is about learning the basics of HTML/CSS and its applications. I learned a lot about how this works and many basic techniques. This is a mock-up of a library page.
+
+You can view the webpage here: https://hillexia.github.io/se_project_library/
+
+Thank you! :)
